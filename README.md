@@ -1,2 +1,2 @@
 # oink.industries_luas
-luas for the gmod cheat called https://oink.industries/
+luas i have made for the gmod cheat called https://oink.industries/
